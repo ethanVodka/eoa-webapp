@@ -2,7 +2,7 @@ package com.eoa.webapp.ea.dac.dao;
 
 /** */
 @org.springframework.stereotype.Repository()
-@javax.annotation.Generated(value = { "Doma", "2.56.0" }, date = "2025-02-15T23:35:15.718+0900")
+@javax.annotation.Generated(value = { "Doma", "2.56.0" }, date = "2025-02-16T10:28:16.572+0900")
 @org.seasar.doma.DaoImplementation
 public class MuserDaoImpl implements com.eoa.webapp.ea.dac.dao.MuserDao, org.seasar.doma.jdbc.ConfigProvider {
 

@@ -1,7 +1,7 @@
 package com.eoa.webapp.ea.dac.entity;
 
 /** */
-@javax.annotation.Generated(value = { "Doma", "2.56.0" }, date = "2025-02-15T23:35:15.647+0900")
+@javax.annotation.Generated(value = { "Doma", "2.56.0" }, date = "2025-02-16T10:28:16.414+0900")
 @org.seasar.doma.EntityTypeImplementation
 public final class _MuserEntity extends org.seasar.doma.jdbc.entity.AbstractEntityType<com.eoa.webapp.ea.dac.entity.MuserEntity> {
 

@@ -11,7 +11,9 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seasar.doma/doma-core/2.56.0/20347f1f3ae883c492792fa26dd0938603bdcc55/doma-core-2.56.0.jar" />
         </processorPath>
         <module name="webapp-00-root.webapp-04-ea.main" />
+        <module name="webapp-00-root.webapp-03-common.main" />
         <module name="webapp-00-root.webapp-01-main.main" />
+        <module name="webapp-00-root.webapp-02-core.main" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="17" />

@@ -10,6 +10,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/../webapp-01-main" />
+            <option value="$PROJECT_DIR$/../webapp-02-core" />
+            <option value="$PROJECT_DIR$/../webapp-03-common" />
             <option value="$PROJECT_DIR$/../webapp-04-ea" />
           </set>
         </option>
