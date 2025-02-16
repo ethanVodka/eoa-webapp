@@ -1,4 +1,4 @@
-package com.eoa.webapp.ea.dac.entity;
+package com.eoa.webapp.common.dac.entity;
 
 import lombok.Getter;
 import lombok.Setter;

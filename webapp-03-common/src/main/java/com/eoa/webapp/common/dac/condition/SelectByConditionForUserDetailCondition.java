@@ -1,4 +1,4 @@
-package com.eoa.webapp.ea.dac.condition;
+package com.eoa.webapp.common.dac.condition;
 
 import lombok.Data;
 import lombok.Getter;
@@ -14,4 +14,9 @@ public class SelectByConditionForUserDetailCondition {
      * ユーザーコード.
      * */
     private String userCode;
+
+    /**
+     * パスワード.
+     * */
+    private String loginPassword;
 }

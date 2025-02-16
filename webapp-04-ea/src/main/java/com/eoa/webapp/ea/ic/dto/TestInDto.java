@@ -9,5 +9,5 @@ import lombok.Setter;
 @Data
 public class TestInDto {
     private String userCode;
-    private String userName;
+    private String loginPassword;
 }
